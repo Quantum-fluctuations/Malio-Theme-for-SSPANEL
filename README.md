@@ -4,9 +4,6 @@
 
 本主题包含了SSPANEL的完整代码，需要删除原来的面板，然后全新安装（数据库通用），操作前请备份面板
 
-## 贡献
-
-[提出新想法 & 提交 Bug](https://github.com/Cadwalader307/Malio-Theme-for-SSPANEL/issues/new) | [改善文档 & 投稿](https://github.com/Cadwalader307/Malio-Theme-for-SSPANEL/Wiki) | [Fork & Pull Request](https://github.com/Cadwalader307/Malio-Theme-for-SSPANEL/pulls)
 
 由于原开发团队已经放弃Malio主题，因此此项目欢迎各种贡献，包括但不限于改进，新功能，文档和代码改进，问题和错误报告。
 
@@ -27,12 +24,6 @@
 如果需要配置Stripe支付接口的话，请看本仓库的wiki
 
 需要去.config.php打开订阅记录的开关才会记录订阅
-
-## Telegram
-主题交流群 [@章鱼哥的SSPanel之家](https://t.me/woaizyg)
-
-## AFF
-推荐的支付平台👉 [BitPayX](https://merchants.mugglepay.com/user/register?ref=MP8DF1B016220D) ，支持数字货币、支付宝、微信，提款数字货币
 
 ## CREDIT
 基于 [rico](https://github.com/rico93) 和 [GeekQu](https://github.com/GeekQu) 维护的 [ss-panel-v3-mod_Uim](https://github.com/rico93/ss-panel-v3-mod_Uim) 修改
